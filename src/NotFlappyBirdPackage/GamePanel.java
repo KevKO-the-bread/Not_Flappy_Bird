@@ -1,6 +1,5 @@
 package NotFlappyBirdPackage;
 
-//test
 
 
 import java.awt.Font;
